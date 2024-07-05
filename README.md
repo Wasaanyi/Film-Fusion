@@ -89,5 +89,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
+- **Email**: jwasaanyi@gmail.com
 - **GitHub**: [wasaanyi](https://github.com/wasaanyi)
